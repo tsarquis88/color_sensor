@@ -1,5 +1,5 @@
 # color_sensor
-## Hardware:
+## Hardware
 * LPC1769
 * UART module
 * Color sensor TCS230
