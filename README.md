@@ -7,3 +7,6 @@
 * Servo SG90
 ## Image
 ![Img](https://github.com/tsarquis88/color_sensor/blob/master/docs/img.jpg)
+## In collaboration with
+* Agustin Oliva Arias
+* Lucas Blanco
